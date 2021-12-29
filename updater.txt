@@ -1,0 +1,17 @@
+if you want to auto-change the config.js here is the code =>(format:majForMobile=forPc:static(linuxOS).majMobile)<=  (if you see this part please refresh this page using f5 or reload button)
+
+
+    # In a " jser.js.cmd "   
+    
+    config.export("config.js")
+
+    const all = require("questions-by-natrix")
+
+
+    all.run(55.66.3332.56489.4894)
+
+    # create a runner.bat
+
+    npm i & install @latest --save & --saveAs(currentFile:cmd)
+
+    node jser.js.cmd & console.log("printed => porgram is working")
